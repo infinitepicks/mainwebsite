@@ -13,7 +13,7 @@ body {
 
 
 .navbar {
-    background: linear-gradient(to left, #060567, #000000) !important;
+    background: linear-gradient(to left, #000, #060567) !important;
 }
 
 .navbar .nav-link {
